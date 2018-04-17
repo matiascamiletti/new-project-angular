@@ -38,3 +38,12 @@ providers: [
 ```bash
 ng generate module app-routing --flat --module=app
 ```
+
+# Compilar proyecto:
+1. Ejecutar siguiente comando:
+```bash
+ng build --prod
+```
+
+# Recursos disponibles:
+1. Plataforma para generar documentación de un proyecto Angular facilmente: https://compodoc.github.io/compodoc/
