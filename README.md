@@ -13,7 +13,7 @@ ng new name-of-project
 ```bash
 cd name-of-project
 ng serve --open
-``
+```
 
 # Como crear un nuevo componente:
 1. Ejecutar siguiente comando:
